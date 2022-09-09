@@ -1,0 +1,40 @@
+body{
+	background-color: #eee;
+}
+
+.caja{
+	background-color: #fff;
+	margin:1px;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 2px;
+	border-color: #d1d1d1;
+	border-top: solid 0px;
+	width: 500px;
+
+}
+.div{
+	border-bottom: solid;
+	border-color: #d1d1d1;
+	border-width:1px;
+ 	padding: 8px;
+	margin: 0px;
+
+
+}
+#yes{
+	background-color:#2b7ddf;
+	color: #f9f9f9;
+	padding:5px;
+	border-width: 0px;
+	border-radius: 2px;
+}
+
+#no{
+	background-color:#9f9f9f;
+	color:#f9f9f9;
+	padding:5px;
+	border-width: 0px;
+	border-radius: 2px;
+
+}
